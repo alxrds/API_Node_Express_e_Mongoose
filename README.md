@@ -8,5 +8,5 @@ https://cloud.mongodb.com
 
 Criar um arquivo na raiz com o nome .env com seus dados abaixo
 
-DB_USER=usuariodobanco
+DB_USER=usuariodobanco<br>
 DB_PASS=senhadobanco
