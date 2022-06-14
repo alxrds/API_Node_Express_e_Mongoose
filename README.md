@@ -11,4 +11,4 @@ Criar um arquivo na raiz com o nome .env com seus dados abaixo
 DB_USER=usuariodobanco<br>
 DB_PASS=senhadobanco
 
-executar npm install para instalar os pacotes necessários.
+
